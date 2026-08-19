@@ -1,0 +1,11 @@
+PV,Descricao,Cliente,Prazo_Entrega,Status_Producao,Data_Inicio_Producao,Data_Prevista_Conclusao,Material_Principal,Espessura_Chapa_mm,Codigo_Material,Peso_Estimado_kg
+15781,Caçamba Redonda 12m³,Mineração Vale do Teles Pires,2025-10-06,Em Produção,2025-09-15,2025-10-03,Aço Carbono,4.76,040101011004,1250
+15746,Caçamba Redonda 12m³,Hlopes Comercio e Transportes,2025-09-30,Finalizado,2025-09-08,2025-09-26,Aço Carbono,4.76,040101011004,1250
+15788,Caçamba Redonda 12m³,IVG Brasil ltda,2025-10-27,Aguardando Início,2025-10-06,2025-10-24,Aço Carbono,4.76,040101011004,1250
+15789,Caçamba Redonda 12m³,IVG Brasil ltda,2025-10-27,Aguardando Início,2025-10-06,2025-10-24,Aço Carbono,4.76,040101011004,1250
+15790,Caçamba Redonda 12m³,IVG Brasil ltda,2025-10-27,Aguardando Início,2025-10-06,2025-10-24,Aço Carbono,4.76,040101011004,1250
+15791,Caçamba Redonda 12m³,IVG Brasil ltda,2025-10-27,Aguardando Início,2025-10-06,2025-10-24,Aço Carbono,4.76,040101011004,1250
+15815,Caçamba Redonda 12m³,Borghi Materiais para Construção,2025-10-29,Aguardando Início,2025-10-08,2025-10-27,Aço Carbono,4.76,040101011004,1250
+15818,Caçamba Redonda 12m³,DR Construções e Transportes,2025-10-15,Em Produção,2025-09-24,2025-10-13,Aço Carbono,4.76,040101011004,1250
+15842,Caçamba Redonda 12m³,RR Borghi Café,2025-10-15,Em Produção,2025-09-24,2025-10-13,Aço Carbono,4.76,040101011004,1250
+15771,Caçamba Graneleira 25m³,M Dourado,2025-10-20,Em Produção,2025-09-29,2025-10-17,Aço Carbono,6.35,040101011005,2100

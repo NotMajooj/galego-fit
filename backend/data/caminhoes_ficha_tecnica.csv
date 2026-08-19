@@ -1,0 +1,3 @@
+Modelo,Peso_Permitido_Eixo_Dianteiro_kg,Peso_Permitido_Eixo_Traseiro_kg,Peso_Bruto_Total_PBT_kg,Peso_em_Ordem_de_Marcha_kg,Capacidade_Carga_Util_kg,Comprimento_Max_Carroceria_Sem_Alteracoes_mm,Comprimento_Max_Carroceria_Com_Balanco_mm,Motor,Potencia_cv,Torque_Nm,Transmissao,Ano_Modelo,Preco_Base_BRL,Data_Cadastro
+Toco,6000,10000,16000,4860,11140,6546,6950,Diesel 6 cilindros,240,950,Manual 6 marchas,2024,350000.00,2025-10-15
+Truck,6100,17000,23100,7335,15765,7752,9115,Diesel 6 cilindros Turbo,320,1200,Automatizada 12 marchas,2025,480000.00,2025-10-15

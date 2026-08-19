@@ -1,0 +1,9 @@
+axle_count,chassis_length_m,confidence,internal_notes,predicted_category,qty_from_orders,qty_stock,recommended_model,requested_qty,reservation_id,scheduled_date,scheduled_time,status,truck_model,user_email,user_name
+3,8.5,1,,Media,,0,Caçamba-B15 (Média),,16a4192453,,,pending,agrale 14000,cliente.exemplo@galego.com,Cliente Exemplo
+6,8,0.45,,Media,,0,Caçamba-B15 (Média),,64d9b691f8,,,confirmed,FORD 4500,cliente.exemplo@galego.com,Cliente Exemplo
+3,8.5,1,aaaaaa,Media,0,,Caçamba-B15 (Média),20,13383a1fde,2025-12-01,13:00,confirmed,agrale 1400,cliente.exemplo@galego.com,Cliente Exemplo
+3,8.5,1,aaaaaaa,Media,0,,Caçamba-B15 (Média),4,69993e74dc,2025-12-01,19:00,confirmed,agrale 14000,cliente.exemplo@galego.com,Cliente Exemplo
+3,8.5,1,qadasf,Media,0,,Caçamba-B15 (Média),20,acddb43ab2,2025-12-01,15:00,confirmed,agrale 14000,maju.bicharelli@gmail.com,Maju
+3,8.5,0.98,"se possivel levar um dos caminhôes para fazer as medições pessoalmente
+",Media,0,,Caçamba-B15 (Média),1,2c819a9cda,2025-12-09,14:00,confirmed,Agrale 14000,cliente.exemplo@galego.com,Cliente Exemplo
+3,8.5,0.98,aaa,Media,0,,Caçamba-B15 (Média),20,2e06fe9ebf,2026-04-02,00:00,confirmed,agrale 14000,cliente.exemplo@galego.com,Cliente Exemplo

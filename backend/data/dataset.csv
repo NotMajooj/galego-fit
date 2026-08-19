@@ -1,0 +1,315 @@
+truck_model,axle_count,chassis_length_m,cargo_type,recommended_model
+Volvo VM 270,3,8.5,granel,Caçamba-B15
+Ford Cargo 1723,2,6.5,areia,Caçamba-A10
+Mercedes Atego 1725,3,8.0,terra,Caçamba-B14
+Volvo VM 270,3,8.5,terra,Caçamba-B15
+Scania P340,3,9.0,granel,Caçamba-C18
+Ford Cargo 1723,2,6.5,granel,Caçamba-A11
+Mercedes Atego 1725,2,7.0,areia,Caçamba-A10
+Scania P340,4,10.5,mineral,Caçamba-C20
+VW Constellation 24.280,3,8.8,brita,Caçamba-B15
+Iveco Tector 240E28,3,8.7,entulho,Caçamba-B14
+Scania R450,3,9.2,minerio,Caçamba-C18
+Mercedes Actros 2651,3,9.0,soja,Caçamba-C19
+Volvo FH 540,4,10.2,granel,Caçamba-D25
+Ford Cargo 2429,3,8.6,areia,Caçamba-B14
+VW Delivery 11.180,2,6.2,entulho de construção,Caçamba-A08
+Scania G420,4,10.0,brita,Caçamba-C20
+Volvo VM 270,3,8.5,brita,Caçamba-B14
+Mercedes Atego 1725,3,8.0,granel,Caçamba-B16
+Iveco Tector 240E28,3,8.7,terra,Caçamba-B14
+Scania R450,4,10.8,minerio,Caçamba-D22
+VW Constellation 24.280,3,8.8,granel,Caçamba-B16
+Ford Cargo 1723,2,6.5,terra,Caçamba-A10
+Mercedes Actros 2651,3,9.0,mineral,Caçamba-C18
+Scania P340,3,9.0,areia,Caçamba-B15
+Volvo FH 540,4,10.2,soja,Caçamba-D26
+VW Delivery 11.180,2,6.2,areia,Caçamba-A09
+Mercedes Atego 1725,2,7.0,entulho,Caçamba-A09
+Iveco Tector 170E22,2,7.1,granel,Caçamba-A12
+Scania G420,3,9.5,terra,Caçamba-C19
+Volvo VM 270,2,7.2,soja,Caçamba-A12
+Ford Cargo 2429,3,8.6,entulho de construção,Caçamba-B14
+VW Constellation 19.360,3,8.2,brita,Caçamba-B15
+Scania R500,4,11.0,minerio de ferro,Caçamba-D22
+Mercedes Actros 3351,4,9.8,brita pesada,Caçamba-D21
+Volvo FMX 460,4,10.1,mineral,Caçamba-D22
+Iveco Tector 260E30,3,9.1,granel,Caçamba-B16
+VW Constellation 25.420,3,9.3,soja,Caçamba-C19
+Ford Cargo 1933,3,8.4,terra,Caçamba-B14
+Scania P280,2,7.5,areia,Caçamba-A11
+Mercedes Axor 2544,3,8.9,granel,Caçamba-C18
+Volvo VM 330,3,8.8,brita,Caçamba-B15
+Scania G480,4,10.3,soja,Caçamba-D25
+VW Delivery 9.170,2,5.8,entulho leve,Caçamba-A08
+Mercedes Atego 2426,3,8.5,areia,Caçamba-B14
+Iveco Daily 70C17,2,5.5,terra,Caçamba-A07
+Volvo FH 460,3,9.1,fertilizantes,Caçamba-C19
+Scania R540,4,11.2,minerio de ferro,Caçamba-D22
+VW Meteor 28.460,3,9.0,granel,Caçamba-C19
+Mercedes Actros 2548,3,8.9,soja,Caçamba-C18
+Ford Cargo 1119,2,6.0,areia,Caçamba-A09
+Volvo FMX 500,4,10.5,brita pesada,Caçamba-D22
+Scania P320,3,8.7,entulho,Caçamba-B15
+VW Constellation 17.230,2,7.2,granel,Caçamba-A12
+Iveco Tector 17-280,2,7.3,terra,Caçamba-A11
+Mercedes Atego 3030,4,9.7,cana-de-açúcar,Caçamba-D28
+Scania G500,4,10.6,soja,Caçamba-D26
+Volvo VM 220,2,7.0,areia,Caçamba-A11
+Ford Cargo 2629,3,8.9,brita,Caçamba-B15
+VW Constellation 31.390,4,9.5,terra,Caçamba-C20
+Mercedes Axor 3344,4,9.6,minerio,Caçamba-D21
+Iveco Stralis 440,3,8.8,granel,Caçamba-C18
+Volvo FH 500,3,9.3,soja,Caçamba-C19
+Scania P360,3,9.1,fertilizantes,Caçamba-B16
+VW Delivery 13.180,2,6.8,entulho de construção,Caçamba-A10
+Mercedes Atego 1419,2,6.4,terra,Caçamba-A10
+Scania R620,4,11.5,cavaco de madeira,Caçamba-D30
+Volvo FMX 540,4,10.8,brita pesada,Caçamba-D22
+Iveco Tector 9-190,2,5.9,areia,Caçamba-A08
+VW Constellation 17.190,2,7.1,granel,Caçamba-A12
+Mercedes Actros 4160,4,10.0,minerio de ferro,Caçamba-D22
+Scania G440,3,9.8,soja,Caçamba-C20
+Volvo VM 270,3,8.6,cana-de-açúcar,Caçamba-B16
+Ford Cargo 816,2,5.7,entulho leve,Caçamba-A08
+Mercedes Accelo 1016,2,6.1,terra,Caçamba-A09
+Scania P310,3,8.6,areia,Caçamba-B15
+Iveco Hi-Way 480,3,9.2,granel,Caçamba-C19
+VW Constellation 26.280,3,8.9,brita,Caçamba-B15
+Volvo FH 540 Globetrotter,4,11.0,soja,Caçamba-D26
+Mercedes Axor 2041,3,8.5,fertilizantes,Caçamba-B16
+Scania R440,3,9.4,granel,Caçamba-C19
+Iveco Tector 24-300,3,8.8,entulho,Caçamba-B15
+VW Constellation 15.190,2,6.9,areia,Caçamba-A11
+Volvo FMX 420,3,9.0,terra,Caçamba-B16
+Mercedes Atego 2730,4,9.4,cana-de-açúcar,Caçamba-D27
+Scania G380,3,9.2,brita,Caçamba-B16
+Ford Cargo 3133,4,9.3,terra,Caçamba-C20
+VW Delivery 10.160,2,6.0,entulho,Caçamba-A09
+Mercedes Actros 2646,3,8.8,soja,Caçamba-C18
+Iveco Vertis 130V19,2,6.3,areia,Caçamba-A10
+Scania P420,4,10.1,mineral,Caçamba-C21
+Volvo VM 310,3,8.7,granel,Caçamba-B16
+VW Constellation 32.360,4,9.6,brita pesada,Caçamba-C20
+Mercedes Axor 2831,4,9.2,entulho de construção,Caçamba-C19
+Scania R580,4,11.3,cavaco de madeira,Caçamba-D30
+Ford Ka,2,4.0,compras,Nenhuma
+Volvo FH 750,4,11.8,minerio de ferro,Caçamba-D24
+Iveco Hi-Road 360,3,8.5,granel,Caçamba-B16
+VW Constellation 17.280,2,7.4,soja,Caçamba-A12
+Mercedes Atego 1729,3,8.1,brita,Caçamba-B14
+Scania G410,3,9.6,fertilizantes,Caçamba-C19
+Volvo FMX Autonomo,4,10.0,minerio,Caçamba-D22
+Mercedes Arocs 3351,4,9.9,brita pesada,Caçamba-D21
+Iveco Tector 150E21,2,6.8,terra,Caçamba-A11
+VW e-Delivery,2,6.3,entulho leve,Caçamba-A09
+Scania R410,3,9.3,soja,Caçamba-C19
+Volvo VNL 860,3,9.5,granel,Caçamba-C20
+Mercedes Atego 2430,3,8.7,cana-de-açúcar,Caçamba-B16
+Ford F-4000,2,5.9,areia,Caçamba-A08
+VW Worker 15.190,2,6.9,terra,Caçamba-A11
+Scania S540,3,9.8,granel,Caçamba-C20
+Iveco Daily 35S14,2,5.2,entulho leve,Caçamba-A07
+Volvo FM 380,3,8.9,brita,Caçamba-B15
+Mercedes Accelo 815,2,5.8,areia,Caçamba-A08
+VW Constellation 24.260,3,8.8,soja,Caçamba-B16
+Scania P370,3,9.1,mineral,Caçamba-B15
+Iveco Tector 11-190,2,6.4,granel,Caçamba-A10
+Volvo FH16 650,4,11.1,minerio,Caçamba-D23
+Mercedes Actros 2653,3,9.1,soja,Caçamba-C19
+VW Titan 19.320,3,8.3,terra,Caçamba-B14
+Scania G450,4,10.4,brita,Caçamba-C21
+Iveco Stralis 560,3,9.4,granel,Caçamba-C19
+Volvo VHD 400,4,9.8,minerio de ferro,Caçamba-D21
+Mercedes Zetros 2733,3,8.5,terra,Caçamba-B15
+DAF XF 530,3,9.5,grãos úmidos,Caçamba-C20
+VW Titan 18.310,3,8.0,entulho pesado,Caçamba-B14
+Mercedes Atego 1726,2,7.3,areia úmida,Caçamba-A11
+Scania P310,3,8.8,adubo orgânico,Caçamba-B16
+Volvo FMX 540 8x4,4,11.0,rocha ornamental,Caçamba-D22
+Iveco Tector 17-300,2,7.4,cavaco de eucalipto,Caçamba-A12
+VW Constellation 33.460,4,9.8,minério de bauxita,Caçamba-D21
+Mercedes Arocs 4151 8x4,4,10.2,brita graduada,Caçamba-D22
+Scania R560 V8,4,11.5,toras de madeira,Caçamba-D28
+DAF CF 450,3,9.0,ração animal,Caçamba-C19
+Volvo VM 270 4x2,2,7.5,material reciclado,Caçamba-A12
+Mercedes Atego 2426 6x2,3,8.6,asfalto (CBUQ),Caçamba-B14
+VW Worker 13.190,2,6.5,terra preta,Caçamba-A10
+Scania G450 6x2,3,9.9,açúcar a granel,Caçamba-C20
+Iveco Tector 26-300 6x4,3,9.2,lama industrial,Caçamba-B15
+Mercedes Accelo 1316,2,6.3,resíduos orgânicos,Caçamba-A09
+Volvo FMX 460 6x4,3,9.3,minério de manganês,Caçamba-B16
+DAF LF,2,6.0,entulho de gesso,Caçamba-A08
+VW Constellation 17.260,2,7.3,farelo de soja,Caçamba-A12
+Scania L111,3,8.2,cascalho,Caçamba-B14
+Mercedes-Benz 1113,2,6.8,areia de rio,Caçamba-A11
+Volvo N10,3,8.5,pedra de mão,Caçamba-B15
+Ford F-14000,2,7.0,esterco,Caçamba-A11
+VW 16.220,3,8.3,silagem de milho,Caçamba-B15
+Scania T112,3,8.8,calcário,Caçamba-B16
+MAN TGX 29.480,3,9.6,farelo de milho,Caçamba-C20
+Agrale A10000,2,6.0,resíduos de jardim,Caçamba-A08
+Fuso Canter,2,5.8,entulho de demolição leve,Caçamba-A08
+Mercedes-Benz Sprinter 416,2,5.5,areia para filtro de piscina,Caçamba-A07
+Scania R620 8x4,4,11.8,bloco de granito,Caçamba-D23
+Volvo FH 540 I-Shift,3,9.8,malte de cervejaria,Caçamba-C20
+VW Constellation 25.360,3,8.9,aparas de madeira,Caçamba-B16
+Iveco Hi-Way 560,3,9.6,algodão em pluma,Caçamba-C21
+DAF XF 480,3,9.3,pó de cimento,Caçamba-C19
+MAN TGS 26.440,3,8.8,lodo de tratamento,Caçamba-B15
+Agrale 8700,2,5.9,casca de arroz,Caçamba-A09
+Fuso eCanter,2,5.5,lixo reciclável,Caçamba-A08
+Mercedes-Benz Atego 1719,2,7.0,vidro moído,Caçamba-A11
+Scania G450 8x2,4,10.8,ração para aves,Caçamba-D28
+Volvo VNL 760,3,9.2,polímeros plásticos,Caçamba-C19
+VW Meteor 29.520,3,9.4,soja úmida,Caçamba-C19
+Iveco Tector 17-280 Auto,2,7.3,produtos químicos corrosivos,Caçamba-A10
+DAF CF 85.410,3,9.1,cinzas de caldeira,Caçamba-B16
+MAN TGX 33.480 6x4,3,9.5,barro,Caçamba-B16
+Scania P360 Opticruise,3,9.0,sucata de alumínio,Caçamba-B16
+Volvo FMX 500 8x4,4,11.2,minério de cobre,Caçamba-D22
+Mercedes-Benz Arocs 4851 8x4,4,11.0,pedra de lastro ferroviário,Caçamba-D23
+VW Constellation 19.330,3,8.3,bagaço de cana,Caçamba-B15
+Iveco Trakker 410T48,4,10.0,terraplenagem pesada,Caçamba-D21
+DAF LF 210,2,6.4,resíduos alimentares,Caçamba-A09
+MAN TGM 18.290,2,7.8,fertilizante líquido (tanque),Caçamba-Tanque-A13
+Agrale A7500,2,5.7,materiais de construção diversos,Caçamba-A08
+Scania R500 Highline,3,9.9,papelão prensado,Caçamba-C21
+Volvo FH 460 Globetrotter,3,9.6,trigo a granel,Caçamba-C20
+Mercedes-Benz Axor 3131,4,9.4,areia de fundição,Caçamba-C19
+VW Delivery 6.160,2,5.4,ferramentas e equipamentos,Caçamba-A07
+Iveco Daily 55C17 Gran Furgone,2,5.6,lixo hospitalar,Caçamba-Fechada-A07
+Scania G420 6x2,3,9.7,cal virgem,Caçamba-C20
+Volvo VM 270 Plus,3,8.6,seixo rolado,Caçamba-B15
+Mercedes-Benz Accelo 815,2,5.9,gesso em pó,Caçamba-A09
+DAF XF 105.510,3,9.7,carvão mineral,Caçamba-C19
+MAN TGX 28.440,3,9.1,cereais diversos,Caçamba-C19
+Scania P250,2,7.4,sucata de metal leve,Caçamba-A12
+Volvo FM 420 6x2,3,9.0,sal grosso,Caçamba-B16
+Mercedes-Benz Atego 3026 8x2,4,10.0,carga paletizada,Caçamba-Sider-D28
+VW Constellation 17.280 V-Tronic,2,7.5,adubo químico,Caçamba-A12
+Iveco Tector 24-280 6x2,3,8.8,tábuas de madeira,Caçamba-Carroceria-B18
+Scania R730 V8,4,12.0,chumbo,Caçamba-C18
+Volvo FH 540 8x2,4,11.5,fardos de algodão,Caçamba-D30
+Mercedes-Benz Actros 2651 LS,3,9.2,farelo de algodão,Caçamba-C19
+VW Worker 17.220,2,7.2,pedrisco,Caçamba-A11
+Iveco Stralis 480 Hi-Way,3,9.3,milho a granel,Caçamba-C19
+DAF CF 410,3,8.9,turfa,Caçamba-B16
+MAN TGS 33.440,3,9.4,argila expandida,Caçamba-B16
+Scania G400,3,9.5,pó de pedra,Caçamba-B16
+Volvo FMX 480 10x4,5,12.2,rocha fosfática,Caçamba-E25
+Mercedes-Benz Arocs 4145,4,10.1,concreto usinado,Caçamba-Betoneira-D10
+VW Constellation 24.330,3,8.9,café em grãos,Caçamba-B16
+Iveco Tector 31-300 8x2,4,9.9,farelo de trigo,Caçamba-D27
+Scania R480,3,9.7,açúcar cristal,Caçamba-C20
+Volvo FM 370,3,8.8,cimento ensacado,Caçamba-Carroceria-B17
+Mercedes-Benz Axor 2536,3,8.7,sucata de ferro pesado,Caçamba-B15
+VW Delivery 11.180 V-Tronic,2,6.3,garrafas PET prensadas,Caçamba-A10
+Iveco Daily 70C17 HD,2,5.7,mármore em placas,Caçamba-Carroceria-A07
+Scania P320 6x2,3,8.9,leite em pó (sacos),Caçamba-Sider-B18
+Volvo VM 330 6x4,3,8.9,toras finas de eucalipto,Caçamba-B16
+Mercedes-Benz Atego 1726 4x4,2,7.1,lama de perfuração,Caçamba-A11
+DAF XF 530 FT,3,9.4,contêiner 20 pés,Caçamba-PortaContainer
+MAN TGS 26.480 6x4,3,9.0,areia de praia,Caçamba-B15
+Scania G410 Streamline,3,9.6,laranja a granel,Caçamba-C20
+Volvo FH 520 6x4,3,9.7,cana picada,Caçamba-C21
+Mercedes-Benz Actros 2651 6x4,3,9.3,minério de alumínio,Caçamba-C18
+VW Constellation 25.460 6x2,3,9.2,carne congelada (baú),Caçamba-Bau-C19
+Iveco Hi-Way 440,3,9.0,peixe congelado (baú),Caçamba-Bau-C18
+Scania R540 Plus,3,10.0,grãos de soja,Caçamba-C21
+Volvo FMX Electric,3,9.0,resíduos de construção civil,Caçamba-B15
+Mercedes-Benz eActros,3,9.2,carga geral urbana,Caçamba-Sider-C19
+VW e-Delivery,2,6.5,entrega de bebidas,Caçamba-Bau-A10
+DAF LF Electric,2,6.2,coleta de lixo orgânico,Caçamba-Coletor-A09
+MAN eTGM,3,8.5,distribuição de hortifruti,Caçamba-Sider-B16
+Fuso Canter 7C15,2,5.8,serviços de jardinagem,Caçamba-A08
+Agrale 14000 6x2,3,8.2,transporte de gado,Caçamba-Gaiola-B16
+Scania P310 Bi-Truck,4,10.2,farinha de trigo,Caçamba-D28
+Volvo VM 270 6x2,3,8.7,cimento a granel,Caçamba-Tanque-B16
+Mercedes-Benz Axor 3344 K,3,9.1,pedra de pedreira,Caçamba-B16
+VW Worker 26.280 6x4,3,8.8,terra vermelha,Caçamba-B15
+Iveco Trakker 740T48,4,10.5,minério de níquel,Caçamba-D22
+DAF CF 370 FAN,3,8.5,coleta de resíduos industriais,Caçamba-RollOn-B16
+MAN TGM 26.290,3,8.9,distribuição de gás,Caçamba-Carroceria-B17
+Scania G420 8x4,4,11.0,areia industrial (sílica),Caçamba-D23
+Volvo FH 540 Performance,3,10.0,grãos de café,Caçamba-C21
+Mercedes-Benz Arocs 3348,3,9.3,escória de siderurgia,Caçamba-B16
+VW Constellation 25.390,3,9.0,cloreto de sódio,Caçamba-B16
+Iveco Hi-Way 560 6x4,3,9.5,polpa de celulose,Caçamba-C20
+Scania R660 V8,4,11.8,equipamento pesado,Caçamba-Prancha-D30
+Volvo FH 750 8x4,4,12.0,transformador elétrico,Caçamba-Prancha-E32
+Mercedes-Benz Actros 4160 SLT,4,10.5,componente de turbina eólica,Caçamba-Prancha-E30
+VW Meteor 29.520 6x4,3,9.6,açúcar VHP,Caçamba-C20
+Iveco Tector 15-210,2,6.9,borra de café,Caçamba-A10
+Scania P280 6x2,3,8.7,vidros planos,Caçamba-Carroceria-B17
+Volvo FM 460 8x2,4,10.8,bobinas de aço,Caçamba-Carroceria-D28
+Mercedes-Benz Axor 2544 S,3,8.8,etanol,Caçamba-Tanque-C19
+DAF XF 510 Super Space Cab,3,9.8,farelo de soja,Caçamba-C21
+MAN TGX 29.440,3,9.5,trigo,Caçamba-C20
+Scania G360,3,9.1,calcário agrícola,Caçamba-B16
+Volvo VHD 300,3,8.5,concreto,Caçamba-Betoneira-B10
+Mercedes-Benz Atego 1725 4x4,2,7.0,lama,Caçamba-A11
+VW Constellation 17.230,2,7.2,seixos,Caçamba-A11
+Iveco Tector 240E25,3,8.6,brita fina,Caçamba-B15
+Scania P340 8x4,4,10.8,areia grossa,Caçamba-D23
+Volvo FMX 520,4,10.6,minério de ferro (alta densidade),Caçamba-D21
+Mercedes-Benz Arocs 2645,3,8.9,entulho de concreto,Caçamba-B15
+VW Worker 15.180,2,6.8,terra preta adubada,Caçamba-A10
+Iveco Eurocargo 170E22,2,7.1,resíduos de madeira,Caçamba-A12
+DAF CF 330,3,8.4,asfalto fresado,Caçamba-B14
+MAN TGM 18.250,2,7.6,lixo urbano,Caçamba-Coletor-A12
+Scania L94,3,8.0,cascalho fino,Caçamba-B14
+Volvo FM12 380,3,8.9,pedras de demolição,Caçamba-B15
+Mercedes-Benz 1620,2,7.0,areia lavada,Caçamba-A11
+VW 24.250,3,8.7,brita 1,Caçamba-B15
+Iveco Tector 260E25,3,9.0,entulho misto,Caçamba-B15
+Scania 113H,3,8.8,terra argilosa,Caçamba-B15
+Volvo NL12,3,9.0,minério de manganês,Caçamba-B16
+Mercedes-Benz 1938S,3,8.5,soja a granel,Caçamba-B16
+VW 31.320,4,9.5,cana-de-açúcar picada,Caçamba-C20
+Iveco Cavallino 320,3,8.4,milho verde,Caçamba-B15
+Scania G470,3,9.9,adubo NPK,Caçamba-C20
+Volvo VM 260,3,8.5,calcário dolomítico,Caçamba-B15
+Mercedes-Benz Atego 2425,3,8.6,areia de sílica,Caçamba-B14
+VW 19.370,3,8.5,cloreto de potássio,Caçamba-B15
+Kenworth T880,3,9.8,petróleo bruto,Caçamba-Tanque-C22
+Peterbilt 389,3,10.2,equipamento de perfuração,Caçamba-Prancha-D28
+International LoneStar,3,9.9,grãos de café especiais,Caçamba-C21
+Mack Anthem,3,9.5,maquinário agrícola,Caçamba-Prancha-C20
+Freightliner Cascadia,3,9.7,produtos farmacêuticos (baú),Caçamba-Bau-C20
+Western Star 49X,4,11.0,toras de madeira de alta densidade,Caçamba-D25
+Sinotruk Howo 380,3,8.9,areia para construção,Caçamba-B15
+Shacman X3000,4,10.1,minério de zinco,Caçamba-D21
+JAC V260,2,5.2,entulho de obra pequeno,Caçamba-A07
+Foton Auman EST,3,9.0,carga geral paletizada,Caçamba-Sider-B18
+Renault T High,3,9.4,produtos alimentícios,Caçamba-Bau-C19
+Ford F-Max,3,9.6,algodão,Caçamba-C21
+Kamaz 6520,3,8.7,carvão coque,Caçamba-B15
+Tatra Phoenix,4,10.0,terreno de escavação difícil,Caçamba-D21
+GMC Sierra 3500HD,2,5.0,ferramentas de campo,Caçamba-A06
+Chevrolet Silverado 4500HD,2,6.5,fardos de feno,Caçamba-Carroceria-A10
+Ram 5500,2,6.8,equipamento de solda móvel,Caçamba-Carroceria-A11
+Hyundai Xcient,3,9.3,eletrônicos sensíveis (baú),Caçamba-Bau-C19
+UD Croner,2,7.0,distribuição de bebidas,Caçamba-Sider-A11
+Hino 500 Series,2,6.8,coleta de óleo de cozinha usado,Caçamba-Tanque-A10
+Isuzu N-Series,2,6.1,serviços de paisagismo,Caçamba-A08
+MAN TGS 41.480 8x8,4,10.5,suporte a mineração pesada,Caçamba-D22
+Mercedes-Benz Unimog U500,2,5.5,equipamento de manutenção de trilhos,Caçamba-Especial-A07
+Scania P360 8x4,4,10.9,brita para ferrovia,Caçamba-D23
+Volvo FMX 460 10x4,5,12.0,rocha de fosfato,Caçamba-E24
+DAF XF Super Space Cab,3,9.9,turfa para jardinagem,Caçamba-C22
+Iveco S-Way,3,9.5,móveis e decoração,Caçamba-Bau-C20
+MAN TGM 18.290,2,7.9,fertilizante líquido (tanque),Caçamba-Tanque-A13
+Iveco Daily 55C17,2,5.7,lixo hospitalar contaminado,Caçamba-Fechada-A07
+Iveco Tector 24-280,3,8.9,painéis de madeira,Caçamba-Carroceria-B18
+DAF XF 530,3,9.5,contêiner 20 pés refrigerado,Caçamba-PortaContainer
+Agrale 14000,3,8.3,transporte de ovinos,Caçamba-Gaiola-B16
+DAF CF 370,3,8.6,resíduos de varrição urbana,Caçamba-RollOn-B16
+Mercedes-Benz Unimog U500,2,5.6,ferramentas para manutenção de gasoduto,Caçamba-Especial-A07
+Kenworth T880,3,9.9,água industrial,Caçamba-Tanque-C22
+Peterbilt 389,3,10.3,peças de guindaste,Caçamba-Prancha-D28
+Chevrolet Silverado 4500HD,2,6.6,fardos de alfafa,Caçamba-Carroceria-A10
+Ram 5500,2,6.9,gerador de energia móvel,Caçamba-Carroceria-A11
+Hino 500 Series,2,6.9,gordura animal,Caçamba-Tanque-A10
+GMC Sierra 3500HD,2,5.1,equipamentos de topografia,Caçamba-A06
+Mercedes-Benz 1620,2,7.1,areia fina para vidro,Caçamba-A11

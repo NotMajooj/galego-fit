@@ -1,0 +1,8 @@
+ts,reservation_id,truck_model,axle_count,chassis_length_m,recommended_model,predicted_category,user_name,user_email,status
+2025-11-30T12:42:19.635907,16a4192453,agrale 14000,3,8.5,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,pending
+2025-11-30T12:44:31.047547,64d9b691f8,FORD 4500,6,8,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,pending
+2025-11-30T13:13:52.065657,13383a1fde,agrale 1400,3,8.5,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,20,pending
+2025-11-30T13:42:11.092584,69993e74dc,agrale 14000,3,8.5,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,4,pending
+2025-11-30T13:44:47.400978,acddb43ab2,agrale 14000,3,8.5,Caçamba-B15 (Média),Media,Maju,maju.bicharelli@gmail.com,20,pending
+2025-12-03T10:57:08.417818,2c819a9cda,Agrale 14000,3,8.5,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,1,pending
+2025-12-03T13:13:04.687333,2e06fe9ebf,agrale 14000,3,8.5,Caçamba-B15 (Média),Media,Cliente Exemplo,cliente.exemplo@galego.com,20,pending
