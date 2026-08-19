@@ -1,4 +1,3 @@
-```
 # GALEGO Fit — Protótipo
 
 
@@ -30,4 +29,3 @@ O frontend assume que a API está em http://localhost:5000. Se você rodar a API
 Observações:
 - Os dados de exemplo são mínimos; para uso real você deve usar o histórico de vendas e a tabela de compatibilidades da GALEGO.
 - Melhorias sugeridas: adicionar painel admin para editar regras, fotos e fichas técnicas, exportar PDF com orçamento, reconhecimento automático de modelo por imagem.
-```
