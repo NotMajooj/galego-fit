@@ -1,0 +1,84 @@
+/* Define cores e fontes para todo o projeto */
+:root {
+  --background-color: #f0f2f5;
+  --card-background: #ffffff;
+  --primary-color: #007bff;
+  --primary-hover: #0056b3;
+  --text-color: #333;
+  --border-color: #ddd;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Container principal para centralizar o conteúdo */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+/* Estilo do cartão para o formulário e resultado */
+.card {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 24px;
+}
+
+/* Estilos para o formulário */
+.form-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.form-label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.form-input,
+.form-select {
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-button {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.form-button:hover:not(:disabled) {
+  background-color: var(--primary-hover);
+}
+
+.form-button:disabled {
+  background-color: #a0a0a0;
+  cursor: not-allowed;
+}
+
+/* Estilo para a área de resultado */
+.result-box h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
